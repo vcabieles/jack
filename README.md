@@ -1,6 +1,6 @@
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
 
-[Express'](https://www.npmjs.com/package/express) application generator.
+[Jack'](https://www.npmjs.com/package/express)an express application generator.
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
@@ -11,12 +11,12 @@
 ## Installation
 
 ```sh
-$ npm install -g express-generator
+$ npm install -g jack-generator
 ```
 
 ## Quick Start
 
-The quickest way to get started with express is to utilize the executable `express(1)` to generate an application as shown below:
+The quickest way to get started with jack is to utilize the executable `jack(1)` to generate an application as shown below:
 
 Create the app:
 
@@ -30,7 +30,7 @@ Install dependencies:
 $ npm install
 ```
 
-Start your Express.js app at `http://localhost:3000/`:
+Start your Jack.js app at `http://localhost:3000/`:
 
 ```bash
 $ npm start
